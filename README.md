@@ -7,11 +7,10 @@
 > 카카오테크캠퍼스 1기 3단계 과정 팀 프로젝트 
 >
 > - 개발기간
-> - 역할 : FrontEnd
 
 >> Front-end
 >> - Language : javascript
->> - Skill : React.js
+>> - Skill : React
 https://github.com/Step3-kakao-tech-campus/Team10_FE_USER
 
 <br />
