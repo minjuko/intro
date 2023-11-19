@@ -17,5 +17,4 @@ https://github.com/Step3-kakao-tech-campus/Team10_FE_OWNER
 >> Front-end
 >> - Language : javascript
 >> - Skill : React
-
 <br /> https://github.com/minjuko/step2-FE-kakao-shop2.git
