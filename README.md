@@ -5,9 +5,6 @@
 ## 1.  셀프 세차장 예약 서비스 '뽀득뽀득'
 
 > 카카오테크캠퍼스 1기 3단계 과정 팀 프로젝트 
->
-> - 개발기간
-
 >> Front-end
 >> - Language : javascript
 >> - Skill : React
